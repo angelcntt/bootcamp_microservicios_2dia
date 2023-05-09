@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nttdata.patterndesing.patterns.PatternsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.917 s - in com.nttdata.patterndesing.patterns.PatternsApplicationTests
